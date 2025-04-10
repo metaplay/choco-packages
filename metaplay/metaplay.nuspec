@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>metaplay</id>
+    <version>1.1.2</version>
+    <packageSourceUrl>https://github.com/metaplay/choco-packages</packageSourceUrl>
+    <owners>Metaplay</owners>
+    <title>Metaplay CLI</title>
+    <authors>Metaplay</authors>
+    <projectUrl>https://metaplay.io</projectUrl>
+    <iconUrl>https://metaplay.io/hubfs/Branding/Monogram/Monogram%20-%20white%20on%20green%20512.png</iconUrl>
+    <copyright>2024-2025 Metaplay</copyright>
+    <licenseUrl>https://github.com/metaplay/cli/?tab=License-1-ov-file#License-1-ov-file</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/metaplay/cli</projectSourceUrl>
+    <docsUrl>https://docs.metaplay.io/</docsUrl>
+    <bugTrackerUrl>https://github.com/metaplay/cli/issues</bugTrackerUrl>
+    <tags>metaplay sdk cli windows development gamedev game-development</tags>
+    <summary>CLI tool to manage the Metaplay SDK in game projects, make cloud deployments, and more.</summary>
+    <description>MetaplayCLI installer package.&#xA;&#34;CLI tool to manage the Metaplay SDK in game projects, make cloud deployments, and more.&#34;&#xA;</description>
+    <releaseNotes>https://github.com/metaplay/cli/releases/tag/1.1.2</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
