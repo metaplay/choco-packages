@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>metaplay</id>
-    <version>1.4.7</version>
+    <version>1.4.8</version>
     <packageSourceUrl>https://github.com/metaplay/choco-packages</packageSourceUrl>
     <owners>Metaplay</owners>
     <title>Metaplay CLI</title>
@@ -18,7 +18,7 @@
     <tags>metaplay sdk cli windows development gamedev game-development</tags>
     <summary>CLI tool to manage the Metaplay SDK in game projects, make cloud deployments, and more.</summary>
     <description>MetaplayCLI installer package.&#xA;&#34;CLI tool to manage the Metaplay SDK in game projects, make cloud deployments, and more.&#34;&#xA;</description>
-    <releaseNotes>https://github.com/metaplay/cli/releases/tag/1.4.7</releaseNotes>
+    <releaseNotes>https://github.com/metaplay/cli/releases/tag/1.4.8</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
