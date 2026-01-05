@@ -8,8 +8,8 @@ $toolsDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $packageArgs = @{
     packageName    = $packageName
     unzipLocation  = $toolsDir
-    url64bit       = 'https://github.com/metaplay/cli/releases/download/1.6.10/MetaplayCLI_Windows_x86_64.zip'
-    checksum64     = '228c1a7faed231cca0fe5531edf557a91a2ad4698ec5c79b9e593a65075adddd'
+    url64bit       = 'https://github.com/metaplay/cli/releases/download/1.7.0/MetaplayCLI_Windows_x86_64.zip'
+    checksum64     = 'f08d24eb3cf53854eca0a78098fda9aae99073521fe95de92d20845330b75966'
     checksumType64 = 'sha256'
 }
 
